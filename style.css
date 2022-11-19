@@ -1,0 +1,25 @@
+tr
+{
+text-align:center;
+}
+table
+{
+margin:25px 200px;
+border-style:inset;
+border-radius:5px;
+border-color:black;
+background-color:skyblue;
+}
+a
+{
+text-decoration:none;
+margin:4px;
+}
+td
+{
+height:45px;
+}
+th
+{
+height:25px;
+}
